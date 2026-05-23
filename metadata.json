@@ -1,0 +1,6 @@
+{
+  "name": "E-Waste Multi-City SEO Portal",
+  "description": "Multi-city programmatic SEO (pSEO) portal and landing page engine for 100 Indian cities including Kerala and pan-India clusters.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

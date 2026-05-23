@@ -1,0 +1,8 @@
+{
+  "enableAiGrading": true,
+  "enableRealTimeTracking": true,
+  "enableLiveChatSupport": false,
+  "enableLeadValuation": true,
+  "enableSitemapExplorer": true,
+  "enableEeatQualityMet": true
+}
